@@ -1,2 +1,2 @@
 # play_game
-game with random number
+ hello  play game with random number
