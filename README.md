@@ -1,2 +1,2 @@
 # play_game
- hello  play game with random number
+this program contains random module .
